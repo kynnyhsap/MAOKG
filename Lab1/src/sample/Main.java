@@ -25,8 +25,8 @@ public class Main extends Application {
     public void start(Stage primaryStage) throws Exception{
         Group root = new Group();
 
-        double SCENE_WIDTH = 600;
-        double SCENE_HEIGHT = 500;
+        double SCENE_WIDTH = 700;
+        double SCENE_HEIGHT = 550;
 
         Scene scene = new Scene(root, SCENE_WIDTH, SCENE_HEIGHT);
 
