@@ -3,6 +3,13 @@
 
 Варіант: **№16**
 
+Результаты роботы программи:
+
+![1](./screenshots/ladybug1.png)
+
+![2](./screenshots/ladybug2.png)
+
+![3](./screenshots/ladybug3.png)
 
 
 Код программи:

@@ -3,6 +3,13 @@
 
 Варіант: **№16**
 
+Результаты роботы программи:
+
+![1](./screenshots/accorn1.png)
+
+![2](./screenshots/accorn2.png)
+
+![3](./screenshots/accorn3.png)
 
 
 Код программи:

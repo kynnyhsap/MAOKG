@@ -3,6 +3,13 @@
 
 Варіант: **№16**
 
+Результаты роботы программи:
+
+![1](./screenshots/helicopter1.png)
+
+![2](./screenshots/helicopter2.png)
+
+![3](./screenshots/helicopter3.png)
 
 
 Код программи:
